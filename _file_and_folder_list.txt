@@ -1,0 +1,14 @@
+
+The 'Merge_Sanger_v3.1.py' is the Python program of this study.
+
+The 'MergeSanger_V3.1_Test_Report.pdf' is test report of the 'Merge_Sanger_v3.1.py'. The result s are stored in the folder 'test_case'.
+
+The folder ‘compare_by_needle’ contains the merged sequence done by 'Merge_Sanger_v2.py', the merged sequence done by 'Merge_Sanger_v3.1.py', and the alignment result file produced by needle.
+
+The folder ‘v2’ contains the seven example input files, the version 2 of the program, the improvements txt file note for the version 2 of the program, and the merged sequence done by 'Merge_Sanger_v2.py'.
+
+The folder ‘v3’ contains the seven example input files, the procedure files of the running of 'Merge_Sanger_v3.1.py' (including running log), and the saved result file done by 'Merge_Sanger_v3.1.py'. The file 'test.txt' is prepared for running the program in CLI mode.
+
+The folder 'sangeranalyseR_test' contains the materials which show the difference of our program with 'sangeranalyseR'. Please read the 'ReadMe.txt' in the folder.
+
+The folder 'test_case' contains the test files and results of case0,case1,..., to case7 of the program test report.
