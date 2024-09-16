@@ -68,7 +68,7 @@ If numpy is not found, execute the following command.
 % python3.12 -m pip install numpy==2.1.1
 ```
 
-(3) Download the program file Merge_Sanger_v3.1.py and example sequence files to your computer from GitHub https://github.com/shiqiang-lin/merge_sanger_sequences_v3.
+(3) Download the program file Merge_Sanger_v3.1.py and example sequence files to your computer from GitHub https://github.com/shiqiang-lin/merge_sanger_sequences_v3.1.
 
 (4) Make a new directory on the desktop.
 
