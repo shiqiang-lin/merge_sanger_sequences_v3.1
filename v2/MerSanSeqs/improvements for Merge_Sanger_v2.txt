@@ -1,0 +1,10 @@
+
+
+For the following lines, (1) and (2) are changed to make the script work fine in Python 3.12.
+(3) is a typo, although it does not affect the result of merging. It is now changed to correct list name.
+
+(1) L50.		The 'is' is changed to '=='.
+
+(2) L69.		The 'is' is changed to '=='.
+
+(3) L182.		The 'DNA_sequence_temp_list = []' is changed to 'DNA_sequence_temp_list = []'.

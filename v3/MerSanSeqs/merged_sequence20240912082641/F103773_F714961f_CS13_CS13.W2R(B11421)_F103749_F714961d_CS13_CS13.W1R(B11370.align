@@ -1,0 +1,182 @@
+###########################################
+#=========================================#
+#   Aligned_sequences: 1
+#=========================================#
+###########################################
+
+Sequence: 1;
+GATGGTCTGATTCAACGCCTCCTGGGCACACATCACGATTCTGCTGAAGCAATCAGGACATGACTGCTTGACCAATGAGAAAACGAGACATCTGAAAGATATCGTGCTGACCTGACACTGTTTGAGGACAGAGAGATGATCGAGAACGGCTGAAAACCTATGCCCCACCTGTTCGACGACAAAGTGATGAAGCAGCTGAAGCGGCGGAGATACACCGGCTGGGGCAGGCTGAGCCGGAAGCTGATCAACGGCATCCGGGACAAGCAGTCCGGCAAGACAATCCTGGATTTCTGAAGTCCGACGGCTTCGCCAACAGAAACTTCATGCAGCTGATCCACGACGACAGCGTGACCTTTAAAGAGGACATCCAGAAAGCCCCAGGTGTCCGGCCAGGGCGATAGCCTGCACGAGCACATTGCCAATCTGGCCGGCAGCCCCGCCATTAAGAAGGGCATCCTGCAGACAGTGAAGGTGGTGGACGAGCTCGTGAAAGTGATGGGCCGGCACAAGCCCGAGAACATCGTGATCGAAATGGCCAGAGAGAACCAGACCACCCAGAAGGGACAGAAGAACAGCCGCGAGAGAATGAAGCGGATCGAAGAGGGCATCAAAGAGCTGGGCAGCCAGATCCTGAAAGAACACCCCGTGGAAAACACCCAGCTGCAGAACGAGAAGCTGTACCTGTACTACCTGCAGAATGGGCGGGATATGTACGTGGACCAGGAACTGGACATCAACCGGCTGTCCGACTACGATGTGGACCATATCGTGCCTCAGAGCTTTCTGAAGGACGACTCCATCGACAACAAGGTGCTGACCAGAAGCGACAAGAACCGGGGCAAGAGCGACAACGTGCCCTCCGAAGAGGTCGTGAAGAAGATGAAGAACTACTGGCGGCAGCTGCTGAACGCCAAGCTGATTACCCAGAGAAAGTTCGACAATCTGACCAAGGCCGAGAGAGGCGGCCTGAGCGAACTGGATAAGGCCGGCTTCATCAAGAGACAGCTGGTGGAAACCCGGCAGATCACAAAGCACGTGGCACAGATCCTGGACTCCCGGATGAACACTAAGTACGACGAGAATGACAAGCTGATCCGGGAAGTGAAAGTGATCACCCTGAAGTCCAAGCTGGTGTCCGATCCGAAGAACCGA
+Length: 1152  Type: N  Check: 0  ..
+Start: 1  End: 1152
+
+###########################################
+#=========================================#
+#   Aligned_sequences: 2
+#=========================================#
+###########################################
+
+Sequence: 2;
+GCTTTCTGAAGGACGACTCCATCGACACAAGGTGCTGACCAGAAGCGACAGACCGGGGCAGAGCGACACGTGCCCTCCGAAGAGTCGTGAGAAGATGAAGAACTACTGGCGGCAGCTGCTGAACGCCAAGCTGATTACCCAGAGAAAGTTCGACAATCTGACCAAGGCCCGAGAGAGGCGGCTGAGCGAACTGGATAAGGCCCGGCTTCATCAAGAGACAGCTGGTGGAAACCCGGCAGATCACAAAGCACGTGGCACAGATCCTGGACTCCCGGATGAACACTAAGTACGACGAGAATGACAAGCTGATCCGGGAAGTGAAAGTGATCACCCTGAAGTCCAAGCTGGTGTCCGATTTCCGGAAGGATTTCCAGTTTTACAAAGTGCGCGAGATCAACAACTACCACCACGCCCACGACGCCTACCTGAACGCCGTCGTGGGAACCGCCCTGATCAAAAAGTACCCTAAGCTGGAAAGCGAGTTCGTGTACGGCGACTACAAGGTGTACGACGTGCGGAAGATGATCGCCAAGAGCGAGCAGGAAATCGGCAAGGCTACCGCCAAGTACTTCTTCTACAGCAACATCATGAACTTTTTCAAGACCGAGATTACCCTGGCCAACGGCGAGATCCGGAAGCGGCCTCTGATCGAGACAAACGGCGAAACCGGGGAGATCGTGTGGGATAAGGGCCGGGATTTTGCCACCGTGCGGAAAGTGCTGAGCATGCCCCAAGTGAATATCGTGAAAAAGACCGAGGTGCAGACAGGCGGCTTCAGCAAAGAGTCTATCCTGCCCAAGAGGAACAGCGATAAGCTGATCGCCAGAAAGAAGGACTGGGACCCTAAGAAGTACGGCGGCTTCGACAGCCCCACCGTGGCCTATTCTGTGCTGGTGGTGGCCAAAGTGGAAAAGGGCAAGTCCAAGAAACTGAAGAGTGTGAAAGAGCTGCTGGGGATCACCATCATGGAAAGAAGCAGCTTCGAGAAGAATCCCATCGACTTCTGAAGCCAAGCACAGTGAGG
+Length: 1024  Type: N  Check: 0  ..
+Start: 1  End: 1024
+
+###########################################
+#=========================================#
+#   Pairwise alignments
+#=========================================#
+###########################################
+
+###########################################
+#                                         #
+#  Alignment score: 1679.0
+#                                         #
+###########################################
+
+1     GATGGTCTGATTCAACGCCTCCTGGGCACACATCACGATTCTGCTGAAGC  50
+                                                        
+0     --------------------------------------------------  0
+
+51    AATCAGGACATGACTGCTTGACCAATGAGAAAACGAGACATCTGAAAGAT  100
+                                                        
+0     --------------------------------------------------  0
+
+101   ATCGTGCTGACCTGACACTGTTTGAGGACAGAGAGATGATCGAGAACGGC  150
+                                                        
+0     --------------------------------------------------  0
+
+151   TGAAAACCTATGCCCCACCTGTTCGACGACAAAGTGATGAAGCAGCTGAA  200
+                                                        
+0     --------------------------------------------------  0
+
+201   GCGGCGGAGATACACCGGCTGGGGCAGGCTGAGCCGGAAGCTGATCAACG  250
+                                                        
+0     --------------------------------------------------  0
+
+251   GCATCCGGGACAAGCAGTCCGGCAAGACAATCCTGGATTTCTGAAGTCCG  300
+                                                        
+0     --------------------------------------------------  0
+
+301   ACGGCTTCGCCAACAGAAACTTCATGCAGCTGATCCACGACGACAGCGTG  350
+                                                        
+0     --------------------------------------------------  0
+
+351   ACCTTTAAAGAGGACATCCAGAAAGCCCCAGGTGTCCGGCCAGGGCGATA  400
+                                                        
+0     --------------------------------------------------  0
+
+401   GCCTGCACGAGCACATTGCCAATCTGGCCGGCAGCCCCGCCATTAAGAAG  450
+                                                        
+0     --------------------------------------------------  0
+
+451   GGCATCCTGCAGACAGTGAAGGTGGTGGACGAGCTCGTGAAAGTGATGGG  500
+                                                        
+0     --------------------------------------------------  0
+
+501   CCGGCACAAGCCCGAGAACATCGTGATCGAAATGGCCAGAGAGAACCAGA  550
+                                                        
+0     --------------------------------------------------  0
+
+551   CCACCCAGAAGGGACAGAAGAACAGCCGCGAGAGAATGAAGCGGATCGAA  600
+                                                        
+0     --------------------------------------------------  0
+
+601   GAGGGCATCAAAGAGCTGGGCAGCCAGATCCTGAAAGAACACCCCGTGGA  650
+                                                        
+0     --------------------------------------------------  0
+
+651   AAACACCCAGCTGCAGAACGAGAAGCTGTACCTGTACTACCTGCAGAATG  700
+                                                        
+0     --------------------------------------------------  0
+
+701   GGCGGGATATGTACGTGGACCAGGAACTGGACATCAACCGGCTGTCCGAC  750
+                                                        
+0     --------------------------------------------------  0
+
+751   TACGATGTGGACCATATCGTGCCTCAGAGCTTTCTGAAGGACGACTCCAT  800
+                                  ||||||||||||||||||||||
+1     ----------------------------GCTTTCTGAAGGACGACTCCAT  22
+
+801   CGACAACAAGGTGCTGACCAGAAGCGACAAGAACCGGGGCAAGAGCGACA  850
+      |||| ||||||||||||||||||||||||  .|||||||| |||||||| 
+23    CGAC-ACAAGGTGCTGACCAGAAGCGACA--GACCGGGGC-AGAGCGAC-  67
+
+851   ACGTGCCCTCCGAAGAGGTCGTGAAGAAGATGAAGAACTACTGGCGGCAG  900
+      |||||||||||||||| |||||| ||||||||||||||||||||||||||
+68    ACGTGCCCTCCGAAGA-GTCGTG-AGAAGATGAAGAACTACTGGCGGCAG  115
+
+901   CTGCTGAACGCCAAGCTGATTACCCAGAGAAAGTTCGACAATCTGACCAA  950
+      ||||||||||||||||||||||||||||||||||||||||||||||||||
+116   CTGCTGAACGCCAAGCTGATTACCCAGAGAAAGTTCGACAATCTGACCAA  165
+
+951   GG-CCGAGAGAGGCGGCCTGAGCGAACTGGATAAGG-CCGGCTTCATCAA  998
+      || ||||||||||||| ||||||||||||||||||| |||||||||||||
+166   GGCCCGAGAGAGGCGG-CTGAGCGAACTGGATAAGGCCCGGCTTCATCAA  214
+
+999   GAGACAGCTGGTGGAAACCCGGCAGATCACAAAGCACGTGGCACAGATCC  1048
+      ||||||||||||||||||||||||||||||||||||||||||||||||||
+215   GAGACAGCTGGTGGAAACCCGGCAGATCACAAAGCACGTGGCACAGATCC  264
+
+1049  TGGACTCCCGGATGAACACTAAGTACGACGAGAATGACAAGCTGATCCGG  1098
+      ||||||||||||||||||||||||||||||||||||||||||||||||||
+265   TGGACTCCCGGATGAACACTAAGTACGACGAGAATGACAAGCTGATCCGG  314
+
+1099  GAAGTGAAAGTGATCACCCTGAAGTCCAAGCTGGTGTCCGAT---CCGAA  1145
+      ||||||||||||||||||||||||||||||||||||||||||   |.|||
+315   GAAGTGAAAGTGATCACCCTGAAGTCCAAGCTGGTGTCCGATTTCCGGAA  364
+
+1146  GAACCGA-------------------------------------------  1152
+      |    ||                                           
+365   G----GATTTCCAGTTTTACAAAGTGCGCGAGATCAACAACTACCACCAC  410
+
+1152  --------------------------------------------------  1152
+                                                        
+411   GCCCACGACGCCTACCTGAACGCCGTCGTGGGAACCGCCCTGATCAAAAA  460
+
+1152  --------------------------------------------------  1152
+                                                        
+461   GTACCCTAAGCTGGAAAGCGAGTTCGTGTACGGCGACTACAAGGTGTACG  510
+
+1152  --------------------------------------------------  1152
+                                                        
+511   ACGTGCGGAAGATGATCGCCAAGAGCGAGCAGGAAATCGGCAAGGCTACC  560
+
+1152  --------------------------------------------------  1152
+                                                        
+561   GCCAAGTACTTCTTCTACAGCAACATCATGAACTTTTTCAAGACCGAGAT  610
+
+1152  --------------------------------------------------  1152
+                                                        
+611   TACCCTGGCCAACGGCGAGATCCGGAAGCGGCCTCTGATCGAGACAAACG  660
+
+1152  --------------------------------------------------  1152
+                                                        
+661   GCGAAACCGGGGAGATCGTGTGGGATAAGGGCCGGGATTTTGCCACCGTG  710
+
+1152  --------------------------------------------------  1152
+                                                        
+711   CGGAAAGTGCTGAGCATGCCCCAAGTGAATATCGTGAAAAAGACCGAGGT  760
+
+1152  --------------------------------------------------  1152
+                                                        
+761   GCAGACAGGCGGCTTCAGCAAAGAGTCTATCCTGCCCAAGAGGAACAGCG  810
+
+1152  --------------------------------------------------  1152
+                                                        
+811   ATAAGCTGATCGCCAGAAAGAAGGACTGGGACCCTAAGAAGTACGGCGGC  860
+
+1152  --------------------------------------------------  1152
+                                                        
+861   TTCGACAGCCCCACCGTGGCCTATTCTGTGCTGGTGGTGGCCAAAGTGGA  910
+
+1152  --------------------------------------------------  1152
+                                                        
+911   AAAGGGCAAGTCCAAGAAACTGAAGAGTGTGAAAGAGCTGCTGGGGATCA  960
+
+1152  --------------------------------------------------  1152
+                                                        
+961   CCATCATGGAAAGAAGCAGCTTCGAGAAGAATCCCATCGACTTCTGAAGC  1010
+
+1152  --------------  1152
+                    
+1011  CAAGCACAGTGAGG  1024
+

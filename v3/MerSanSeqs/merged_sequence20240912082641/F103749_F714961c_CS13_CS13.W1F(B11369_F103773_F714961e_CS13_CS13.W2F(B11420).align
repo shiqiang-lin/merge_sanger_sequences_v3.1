@@ -1,0 +1,178 @@
+###########################################
+#=========================================#
+#   Aligned_sequences: 1
+#=========================================#
+###########################################
+
+Sequence: 1;
+CTGTATTTCGATCAGTTCGGGGCCACTTCCTGATCGAGGGCGACCTGAACCCCGACAACAGCGACGTGGACAAGCTGTTCATCCAGCTGGTGCAGACCTACAACCAGCTGTTCGAGGAAAACCCCATCAACGCCAGCGGCGTGGACGCCAAGGCCATCCTGTCTGCCAGACTGAGCAAGAGCAGACGGCTGGAAAATCTGATCGCCCAGCTGCCCGGCGAGAAGAAGAATGGCCTGTTCGGAAACCTGATTGCCCTGAGCCTGGGCCTGACCCCCAACTTCAAGAGCAACTTCGACCTGGCCGAGGATGCCAAACTGCAGCTGAGCAAGGACACCTACGACGACGACCTGGACAACCTGCTGGCCCAGATCGGCGACCAGTACGCCGACCTGTTTCTGGCCGCCAAGAACCTGTCCGACGCCATCCTGCTGAGCGACATCCTGAGAGTGAACACCGAGATCACCAAGGCCCCCCTGAGCGCCTCTATGATCAAGAGATACGACGAGCACCACCAGGACCTGACCCTGCTGAAAGCTCTCGTGCGGCAGCAGCTGCCTGAGAAGTACAAAGAGATTTTCTTCGACCAGAGCAAGAACGGCTACGCCGGCTACATTGACGGCGGAGCCAGCCAGGAAGAGTTCTACAAGTTCATCAAGCCCATCCTGGAAAAGATGGACGGCACCGAGGAACTGCTCGTGAAGCTGAACAGAGAGGACCTGCTGCGGAAGCAGCGGACCTTCGACAACGGCAGCATCCCCCACCAGATCCACCTGGGAGAGCTGCACGCCATTCTGCGGCGGCAGGAAGATTTTTACCCATTCCTGAAGGACAACCGGGAAAAGATCGAGAAGATCCTGACCTTCCGCATCCCCTACTACGTGGGCCCTCTGGGCCAGGGGAAACAGCAGATTCGCCTGGATGACCAGAAGAGCGAGGAAACCATCACCCCCTGCACTTCGAGGAAGTGTGGACAGGCGCTCGCCAGAGCTCATCGAGCGATGACACTCGATAGACTGCCAACGAGAGGTGCTGCCAGCACAGCTGCTGTA
+Length: 1049  Type: N  Check: 0  ..
+Start: 1  End: 1049
+
+###########################################
+#=========================================#
+#   Aligned_sequences: 2
+#=========================================#
+###########################################
+
+Sequence: 2;
+GGGATCATCTGGAAGTGGACGGCACCGAGGAACTGCTCGTGAAGCTGAACAGAGAGGACCTGCTGCGGAAGCAGCGGACCTTCGACAACGGCAGCATCCCCCACCAGATCCACCTGGGAGAGCTGCACGCCATTCTGCGGCGGCAGGAAGATTTTTACCCATTCCTGAAGGACAACCGGGAAAAGATCGAGAAGATCCTGACCTTCCGCATCCCCTACTACGTGGGCCCTCTGGCCAGGGGAAACAGCAGATTCGCCTGGATGACCAGAAAGAGCGAGGAAACCATCACCCCCTGGAACTTCGAGGAAGTGGTGGACAAGGGCGCTTCCGCCCAGAGCTTCATCGAGCGGATGACCAACTTCGATAAGAACCTGCCCAACGAGAAGGTGCTGCCCAAGCACAGCCTGCTGTACGAGTACTTCACCGTGTATAACGAGCTGACCAAAGTGAAATACGTGACCGAGGGAATGAGAAAGCCCGCCTTCCTGAGCGGCGAGCAGAAAAAGGCCATCGTGGACCTGCTGTTCAAGACCAACCGGAAAGTGACCGTGAAGCAGCTGAAAGAGGACTACTTCAAGAAAATCGAGTGCTTCGACTCCGTGGAAATCTCCGGCGTGGAAGATCGGTTCAACGCCTCCCTGGGCACATACCACGATCTGCTGAAAATTATCAAGGACAAGGACTTCCTGGACAATGAGGAAAACGAGGACATTCTGGAAGATATCGTGCTGACCCTGACACTGTTTGAGGACAGAGAGATGATCGAGGAACGGCTGAAAACCTATGCCCACCTGTTCGACGACAAAGTGATGAAGCAGCTGAAGCGGCGGAGATACACCGGCTGGGGCAGGCTGAGCCGGAAGCTGATCAACGGCATCCGGGACAAGCAGTCCGGGCAGACATCCTGGATTTCCTGAAGTCCGACGGCTTCGCAACAGAAACTCATGCAGCTGATCACGACGACAGCTGACTTAAGAGACATCAGATGCCAGTGTCGCAGGCGATAGCTGCACGAGCAATGGCATCTGTGCAGGCCGCATAGAGCATCTGCGACTGAGTGTGACAGCTCTGAATGATGACCGCCAAGCCGAAAACTCTGGTATTCG
+Length: 1106  Type: N  Check: 0  ..
+Start: 1  End: 1106
+
+###########################################
+#=========================================#
+#   Pairwise alignments
+#=========================================#
+###########################################
+
+###########################################
+#                                         #
+#  Alignment score: 1714.0
+#                                         #
+###########################################
+
+1     CTGTATTTCGATCAGTTCGGGGCCACTTCCTGATCGAGGGCGACCTGAAC  50
+                                                        
+0     --------------------------------------------------  0
+
+51    CCCGACAACAGCGACGTGGACAAGCTGTTCATCCAGCTGGTGCAGACCTA  100
+                                                        
+0     --------------------------------------------------  0
+
+101   CAACCAGCTGTTCGAGGAAAACCCCATCAACGCCAGCGGCGTGGACGCCA  150
+                                                        
+0     --------------------------------------------------  0
+
+151   AGGCCATCCTGTCTGCCAGACTGAGCAAGAGCAGACGGCTGGAAAATCTG  200
+                                                        
+0     --------------------------------------------------  0
+
+201   ATCGCCCAGCTGCCCGGCGAGAAGAAGAATGGCCTGTTCGGAAACCTGAT  250
+                                                        
+0     --------------------------------------------------  0
+
+251   TGCCCTGAGCCTGGGCCTGACCCCCAACTTCAAGAGCAACTTCGACCTGG  300
+                                                        
+0     --------------------------------------------------  0
+
+301   CCGAGGATGCCAAACTGCAGCTGAGCAAGGACACCTACGACGACGACCTG  350
+                                                        
+0     --------------------------------------------------  0
+
+351   GACAACCTGCTGGCCCAGATCGGCGACCAGTACGCCGACCTGTTTCTGGC  400
+                                                        
+0     --------------------------------------------------  0
+
+401   CGCCAAGAACCTGTCCGACGCCATCCTGCTGAGCGACATCCTGAGAGTGA  450
+                                                        
+0     --------------------------------------------------  0
+
+451   ACACCGAGATCACCAAGGCCCCCCTGAGCGCCTCTATGATCAAGAGATAC  500
+                                                        
+0     --------------------------------------------------  0
+
+501   GACGAGCACCACCAGGACCTGACCCTGCTGAAAGCTCTCGTGCGGCAGCA  550
+                                                        
+0     --------------------------------------------------  0
+
+551   GCTGCCTGAGAAGTACAAAGAGATTTTCTTCGACCAGAGCAAGAACGGCT  600
+                                                        
+0     --------------------------------------------------  0
+
+601   ACGCCGGCTACATTGACGGCGGAGCCAGCCAGGAAGAGTTCTACAAGTTC  650
+                                     ||             |.||
+1     -------------------------------GG-------------GATC  6
+
+651   ATCAAGCCCATCCTGGAAAAGATGGACGGCACCGAGGAACTGCTCGTGAA  700
+      ||          ||||||   .||||||||||||||||||||||||||||
+7     AT----------CTGGAA---GTGGACGGCACCGAGGAACTGCTCGTGAA  43
+
+701   GCTGAACAGAGAGGACCTGCTGCGGAAGCAGCGGACCTTCGACAACGGCA  750
+      ||||||||||||||||||||||||||||||||||||||||||||||||||
+44    GCTGAACAGAGAGGACCTGCTGCGGAAGCAGCGGACCTTCGACAACGGCA  93
+
+751   GCATCCCCCACCAGATCCACCTGGGAGAGCTGCACGCCATTCTGCGGCGG  800
+      ||||||||||||||||||||||||||||||||||||||||||||||||||
+94    GCATCCCCCACCAGATCCACCTGGGAGAGCTGCACGCCATTCTGCGGCGG  143
+
+801   CAGGAAGATTTTTACCCATTCCTGAAGGACAACCGGGAAAAGATCGAGAA  850
+      ||||||||||||||||||||||||||||||||||||||||||||||||||
+144   CAGGAAGATTTTTACCCATTCCTGAAGGACAACCGGGAAAAGATCGAGAA  193
+
+851   GATCCTGACCTTCCGCATCCCCTACTACGTGGGCCCTCTGGGCCAGGGGA  900
+      ||||||||||||||||||||||||||||||||||||||| ||||||||||
+194   GATCCTGACCTTCCGCATCCCCTACTACGTGGGCCCTCT-GGCCAGGGGA  242
+
+901   AACAGCAGATTCGCCTGGATGACCAG-AAGAGCGAGGAAACCATCACCCC  949
+      |||||||||||||||||||||||||| |||||||||||||||||||||||
+243   AACAGCAGATTCGCCTGGATGACCAGAAAGAGCGAGGAAACCATCACCCC  292
+
+950   CT-GCACTTCGAGGAAGT-GTGGACA--GGCGCT--CG-CCAGAGC-TCA  991
+      || |.||||||||||||| |||||||  ||||||  || ||||||| |||
+293   CTGGAACTTCGAGGAAGTGGTGGACAAGGGCGCTTCCGCCCAGAGCTTCA  342
+
+992   TCGAGC-GATGAC--AC-TCGAT-AGA--CTG-CCAACGAG-AGGTGCTG  1032
+      |||||| ||||||  || ||||| |||  ||| |||||||| ||||||||
+343   TCGAGCGGATGACCAACTTCGATAAGAACCTGCCCAACGAGAAGGTGCTG  392
+
+1033  CC--AGCACAG-CTGCTGTA------------------------------  1049
+      ||  ||||||| ||||||||                              
+393   CCCAAGCACAGCCTGCTGTACGAGTACTTCACCGTGTATAACGAGCTGAC  442
+
+1049  --------------------------------------------------  1049
+                                                        
+443   CAAAGTGAAATACGTGACCGAGGGAATGAGAAAGCCCGCCTTCCTGAGCG  492
+
+1049  --------------------------------------------------  1049
+                                                        
+493   GCGAGCAGAAAAAGGCCATCGTGGACCTGCTGTTCAAGACCAACCGGAAA  542
+
+1049  --------------------------------------------------  1049
+                                                        
+543   GTGACCGTGAAGCAGCTGAAAGAGGACTACTTCAAGAAAATCGAGTGCTT  592
+
+1049  --------------------------------------------------  1049
+                                                        
+593   CGACTCCGTGGAAATCTCCGGCGTGGAAGATCGGTTCAACGCCTCCCTGG  642
+
+1049  --------------------------------------------------  1049
+                                                        
+643   GCACATACCACGATCTGCTGAAAATTATCAAGGACAAGGACTTCCTGGAC  692
+
+1049  --------------------------------------------------  1049
+                                                        
+693   AATGAGGAAAACGAGGACATTCTGGAAGATATCGTGCTGACCCTGACACT  742
+
+1049  --------------------------------------------------  1049
+                                                        
+743   GTTTGAGGACAGAGAGATGATCGAGGAACGGCTGAAAACCTATGCCCACC  792
+
+1049  --------------------------------------------------  1049
+                                                        
+793   TGTTCGACGACAAAGTGATGAAGCAGCTGAAGCGGCGGAGATACACCGGC  842
+
+1049  --------------------------------------------------  1049
+                                                        
+843   TGGGGCAGGCTGAGCCGGAAGCTGATCAACGGCATCCGGGACAAGCAGTC  892
+
+1049  --------------------------------------------------  1049
+                                                        
+893   CGGGCAGACATCCTGGATTTCCTGAAGTCCGACGGCTTCGCAACAGAAAC  942
+
+1049  --------------------------------------------------  1049
+                                                        
+943   TCATGCAGCTGATCACGACGACAGCTGACTTAAGAGACATCAGATGCCAG  992
+
+1049  --------------------------------------------------  1049
+                                                        
+993   TGTCGCAGGCGATAGCTGCACGAGCAATGGCATCTGTGCAGGCCGCATAG  1042
+
+1049  --------------------------------------------------  1049
+                                                        
+1043  AGCATCTGCGACTGAGTGTGACAGCTCTGAATGATGACCGCCAAGCCGAA  1092
+
+1049  --------------  1049
+                    
+1093  AACTCTGGTATTCG  1106
+
